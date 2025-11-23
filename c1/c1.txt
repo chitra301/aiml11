@@ -1,0 +1,6 @@
+<head>
+<my web page>
+<body>
+<hi every one >
+</body>
+</head>
